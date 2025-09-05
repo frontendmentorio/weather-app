@@ -1,6 +1,6 @@
 # Frontend Mentor - Weather app solution
 
-This is a solution to the [Weather app challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Weather app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/weather-app-K1FhddVm49). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -34,7 +34,6 @@ Users should be able to:
 - Switch between specific temperature units (Celsius and Fahrenheit) and measurement units for wind speed (km/h and mph) and precipitation (millimeters) via the units dropdown
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- **Bonus**: View weather data for their current location (with appropriate geolocation permissions) by default
 
 ### Screenshot
 
